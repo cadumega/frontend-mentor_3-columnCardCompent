@@ -11,5 +11,5 @@ Seguindo as orientações da challenge vamos a mão na massa! "Roteiro base" de 
 4- linkar o arquivo.css separadamente;
 5- Importar fontes do google ;
 5- Criar código com as propriedades devidas, conforme diretrizes(fonte, cores) da challenge.
-6 - Acertar detalhes de botão, título, espaçamento e ícones
+6- Acertar detalhes de botão, título, espaçamento e ícones
 7- Verificar sobre layout responsivo mobile
